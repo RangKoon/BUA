@@ -1,0 +1,11 @@
+.env
+venv_vllm/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+nohup.out
+from
+import
+untitled.py
+untitled.txt
+browser-use/
